@@ -1,0 +1,11 @@
+/?*
+/?*/
+!.git?*
+!*.cs
+!*.csproj
+!*.sln
+!*.md
+!/lib/
+/lib/*.dll
+!/latest-build/
+!/steam-workshop/
