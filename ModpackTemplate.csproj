@@ -7,8 +7,8 @@
     <ProjectGuid>{89B2039B-E48A-4ACE-BCCE-FDDC51C4CBDE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>LuaLoader</RootNamespace>
-    <AssemblyName>LuaLoader</AssemblyName>
+    <RootNamespace>ModpackTemplate</RootNamespace>
+    <AssemblyName>ModpackTemplate</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -57,7 +57,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="LuaLoader.cs" />
+    <Compile Include="ModpackTemplate.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
